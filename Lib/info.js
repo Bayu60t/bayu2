@@ -3,7 +3,7 @@ exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, te
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
-APA KABAR? SEMOGA BAIK-BAIK SAJA!
+Berikut adalah *MENU INFO* yang terdapat di dalam *BLACK DRAGON*
 Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
 
 💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
