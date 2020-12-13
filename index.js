@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
+const BotName = 'Black Dragon'; 
 const instagram = 'https://instagram.com/Black.Dragon1945'; 
 const instagram = 'https://instagram.com/Deaputri63':
 const instagram = 'https://instagram.com/story.anime'; 
@@ -109,6 +109,9 @@ conn.sendMessage(id, ' _nih kak link nya.... https://chat.whatsapp.com/DFyqVSqwx
 }
 	else if (text == '#link'){
 conn.sendMessage(id, ' _nih kak link nya.... https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF_ ' ,MessageType.text);
+}
+	else if (text == 'bot'){
+conn.sendMessage(id, ' _iya kak,ada yg bisa saya banting_ ' ,MessageType.text);
 }
 	else if (text == 'makasih'){
 conn.sendMessage(id, ' _sama-sama kak_ ' ,MessageType.text);
