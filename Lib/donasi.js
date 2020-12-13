@@ -5,28 +5,28 @@ exports.donasi = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, 
 TERIMA KASIH
 *${id.split("@s.whatsapp.net")[0]}*
 TELAH MEMBUKA MENU DONASI
-🐼🐼
+🤧
 
 
-🗓*${tampilTanggal}* 🐼
-⏰*${tampilWaktu}* 🐼
+🗓*${tampilTanggal}* 
+⏰*${tampilWaktu}* 
 (Waktu Server)
 
 KALIAN BISA DONASI MENGGUNAKAN
    
-🛡 *PULSA*: 081271699856
-🛡 *OVO*: 081271699856
-🛡 *DANA* : 081271699866
-🛡 *GOPAY* : 081271699856
+📱 *PULSA*: +62 813-9236-5930
+💳 *OVO*: -
+💳 *DANA* : -
+💳 *GOPAY* : -
 
-📺*IKLAN* *YOUTUBE REUZ*
+🍁*IKLAN* *YOUTUBE titisan air mata*
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
 ${instagram}
 
-👾TELEGRAM : ${telegram}
+
 
 `
 }
