@@ -1,17 +1,20 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜*${BotName}*⚜
+	return `🐉 *${BotName}* 
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 Berikut adalah *MENU BANTUAN* yang terdapat di dalam *BLACK DRAGON*
+📅*${tampilTanggal}* ⚡️
+⏰*${tampilWaktu}*
+(waktu server)
 
 Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
 
 Ayo bantu *BLACK DRAGON*  Agar bot dapat meringankan pembiayaan server, dengan cara berdonasi,ketik *!donasi* untuk berdonasi
 
 
-📅*${tampilTanggal}* ⚡️
-⏰*${tampilWaktu}* ⚡️
-(Waktu Server)
+
+
+
 
 🗒KUMPULAN COMMAND ${BotName}:
  
@@ -41,8 +44,6 @@ _${BotName}_akan mencarikanmu quotes secara random
 📌 _*!pict <cewek/cowok>*_
 _${BotName}_akan mengirimkanmu gambar cewek/cowok secara random
 Contoh: !pict cowok
-
-
 
 
 📌 _*!say <teks>*_
