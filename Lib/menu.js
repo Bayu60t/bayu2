@@ -5,8 +5,8 @@ HALO *${id.split("@s.whatsapp.net")[0]}*
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
 Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
 
-💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
-💵GUNAKAN COMMAND !donasi untuk berdonasi💵
+
+
 
 📅*${tampilTanggal}* ⚡️
 ⏰*${tampilWaktu}* ⚡️
@@ -14,12 +14,14 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 🗒KUMPULAN COMMAND ${BotName}:
  
-🐼*FUN*🐼
+🐼 *Fitur* 🐼
 
-🐼 _*!pantun*_
-_${BotName}_🍄akan mengirimkanmu pantun secara random
+🗃️Media💾
 
-🐼 _*!animepict*_
+📌 _*!pantun*_
+_${BotName}_akan mengirimkanmu pantun secara acak
+
+📌 _*!animepict*_
 _${BotName}_🍄akan mengirimkanmu gambar anime secara random
 
 🐼 _*!sticker*_
@@ -39,20 +41,22 @@ _${BotName}_🍄akan mencarikanmu quotes secara random
 _${BotName}_🍄akan mengirimkanmu gambar cewek/cowok secara random
 Contoh: !pict cowok
 
-🐼 _*!animepict*_
-_${BotName}_🍄akan mengirimkanmu gambar anime secara random
 
-🐼 _*!say <teks>*_
-_${BotName}_🍄akan mengirimkan kembali teks yang kamu kirimkan
+
+
+📌 _*!say <teks>*_
+_${BotName}_akan mengirimkan kembali teks yang kamu kirimkan
 Contoh: !say buset BRO LU GANTENG BANGET AWOKWOKWOKWOWKWOK
 
-🐼 _*!lirik*_ <penyanyi-judul lagu>
-_${BotName}_🍄akan mengirimkanmu lirik lagu yang kamu inginkan
+📌 _*!lirik*_ <penyanyi-judul lagu>
+_${BotName}_akan mengirimkanmu lirik lagu yang kamu inginkan
 contoh : !lirik Lisa-Gurenge
 
-🐼 _*!alay*_ <teks>
-_${BotName}_🍄akan mengubah teks yang kamu kirimkan menjadi alay
+📌 _*!alay*_ <teks>
+_${BotName}_akan mengubah teks yang kamu kirimkan menjadi alay
 contoh : !alay ampun bang jago
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
 ☪*ISLAM*☪
