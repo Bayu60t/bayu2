@@ -4,36 +4,34 @@ exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, te
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
 Berikut adalah *MENU INFO* yang terdapat di dalam *BLACK DRAGON*
-Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
 
-💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
-💵GUNAKAN COMMAND !donasi untuk berdonasi💵
+Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
+Ayo bantu *BLACK DRAGON*  Agar bot dapat meringankan pembiayaan server, dengan cara berdonasi,ketik *!donasi* untuk berdonasi
 
 INFO BOT! :
 🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
+
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *WHATSAPP* : +62 822-2549-1446
 
-🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
-INFO LAIN! :
 
-BOT INI MENGGUNAKAN SOURCE CODE YANG SAYA DAPATKAN DAN SAYA MODIFIKASI DENGAN PENAMBAHAN, PENGURANGAN, DAN PERUBAHAN BEBERAPA FITUR.
-BOT INI DIBUAT MENGGUNAKAN NODE.JS
+
+
+
 
 THANKS TO: 
 -ALLAH SWT
 -MUHAMMAD SAW
 -AYAH & IBU
--ABDUL MUTTAQIN(FDCIABDUL)
+
 
 
 bot aktif selama : ${kapanbotaktif}
 JANGAN LUPA FOLLOW instagram
  ${instagram}
 
- 👾TELEGRAM : ${telegram}`
+ 👾 INSTAGRAM : ${Instagram}`
 }
