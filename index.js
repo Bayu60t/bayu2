@@ -18,9 +18,9 @@ const instagram = 'https://instagram.com/Black.Dragon1945';
 const instagram = 'https://instagram.com/Deaputri63':
 const instagram = 'https://instagram.com/story.anime'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
-//const grupch1 = 'belum ada grup'; 
-//const grupch2 = 'belum ada grup' ; 
+const youtube = 'https://youtube.com/channel/UCDJx-HaB0Ar25_ShPmGj7eA';
+const grupch1 = 'https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF'; 
+const grupch2 = 'https://chat.whatsapp.com/DFyqVSqwxvfCVcpy2VAxg3' ; 
 const
 {
    WAConnection,
