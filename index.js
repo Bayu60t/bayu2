@@ -103,6 +103,15 @@ if (text == 'halo')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
+	else if (text == 'bagi link'){
+conn.sendMessage(id, ' _nih kak link nya.... https://chat.whatsapp.com/DFyqVSqwxvfCVcpy2VAxg3_ ' ,MessageType.text);
+}
+	else if (text == '#link'){
+conn.sendMessage(id, ' _nih kak link nya.... https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF_ ' ,MessageType.text);
+}
+	else if (text == 'makasih'){
+conn.sendMessage(id, ' _sama-sama kak_ ' ,MessageType.text);
+}
 else if (text == 'hai')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
