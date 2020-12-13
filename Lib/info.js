@@ -9,7 +9,7 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 Ayo bantu *BLACK DRAGON*  Agar bot dapat meringankan pembiayaan server, dengan cara berdonasi,ketik *!donasi* untuk berdonasi
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
+🔱 *AUTHOR*: Bayu
 
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
