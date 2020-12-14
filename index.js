@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = 'Black Dragon'; 
+const instagram = 'https://instagram.com/story.anime45'; 
+const telegram = '-'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/c/titisan air mata';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
@@ -253,7 +253,7 @@ if (text.includes("🐉sholat")){
   conn.sendMessage(id, hasil, MessageType.text);
 })
 }
-if (text == '🐉menu'){
+if (text == '!menu'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
 var date = new Date();
 var tahun = date.getFullYear();
