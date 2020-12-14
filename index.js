@@ -209,8 +209,8 @@ axios.get(`https://st4rz.herokuapp.com/api/yta?url=${teks}`).then((res) => {
 })
 }
 
-if (text.includes("!yt")){
-const teks = text.replace(/!yt /, "")
+if (text.includes("🐉yt")){
+const teks = text.replace(/🐉yt /, "")
 axios.get(`https://st4rz.herokuapp.com/api/ytv?url=${teks}`).then((res) => {
     let hasil = `Video telah tersedia pada link di bawah, silahkan klik link dan download hasilnya\n👇👇👇👇👇👇👇👇👇\n\nJudul: ${res.data.title}\n\nUkuran video: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
