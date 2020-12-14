@@ -19,7 +19,7 @@ const telegram = '-';
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/titisan air mata';
 const grupch1 = 'https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF'; 
-//const grupch2 = 'belum ada grup' ; 
+const grupch2 = 'https://chat.whatsapp.com/DFyqVSqwxvfCVcpy2VAxg3' ; 
 const
 {
    WAConnection,
