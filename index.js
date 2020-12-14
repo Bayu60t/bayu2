@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BLACK DRAGON'; 
+const BotName = 'BLACK DRAGON🐉'; 
 const instagram = 'https://instagram.com/story.anime45'; 
 const telegram = '-'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
@@ -115,14 +115,42 @@ else if (text == 'bro')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
+	else if (text == '#help'){
+conn.sendMessage(id, ' mungkin maksud anda *!menu* ' ,MessageType.text);
+}
+else if (text == '!help'){
+conn.sendMessage(id, ' mungkin maksud anda *!menu* ' ,MessageType.text);
+}
+	else if (text == '/help'){
+conn.sendMessage(id, ' mungkin maksud anda *!Menu* ' ,MessageType.text);
+}
+else if (text == '.menu'){
+conn.sendMessage(id, ' mungkin maksud anda *!menu* ' ,MessageType.text);
+}
+	else if (text == '#menu'){
+conn.sendMessage(id, ' mungkin maksud anda*!Menu* ' ,MessageType.text);
+}
+	else if (text == '/menu'){
+conn.sendMessage(id, ' mungkin maksud anda *!menu* ' ,MessageType.text);
+}
+	else if (text == 'bot'){
+conn.sendMessage(id, ' *Apa tod!! manggil" gw* ' ,MessageType.text);
+}
 else if (text == 'p')
 {
 conn.sendMessage(id, tambahan.p ,MessageType.text);
+}
+	else if (text == 'Bot'){
+conn.sendMessage(id, ' *Apa tod!!, manggil" gue* ' ,MessageType.text);
 }
 else if (text == 'test')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
 }
+	else if (text == '!link'){
+conn.sendMessage(id, ' *nih kak link nya https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF* ' ,MessageType.text);
+}
+	
 else if (text == 'HALO')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
