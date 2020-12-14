@@ -122,8 +122,8 @@ conn.sendMessage(id, tambahan.bro ,MessageType.text);
 conn.sendMessage(id, ' _Apa lu tod manggil"gw_ ' ,MessageType.text);
 }
 
-else if (text == 'I love u'){
-conn.sendMessage(id, ' _love you too😻_ ' ,MessageType.text);
+else if (text == '!owner'){
+conn.sendMessage(id, ' _nih owner ku kak http://Wa.me/6281392365930_ ' ,MessageType.text);
 }
 else if (text == 'sepi'){
 conn.sendMessage(id, ' _masuk ke sini ajh kak dan ramaikan https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF_ ' ,MessageType.text);
