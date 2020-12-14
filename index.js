@@ -139,7 +139,9 @@ conn.sendMessage(id, ' *Apa tod!! manggil" gw* ' ,MessageType.text);
 	else if (text == '!owner'){
 conn.sendMessage(id, ' nih kak owner gw yg paling ganteng *http://Wa.me/6281392365930* ' ,MessageType.text);
 }
-
+else if (text == '!menu'){
+conn.sendMessage(id, '  _🗣️Thanks Telah Menggunakan BOT *BLACK DRAGON🐉* , Follow Instagram Mimin Yah🤗 : https://instagram.com/story.anime45 ' ,MessageType.text);
+}
 	
 else if (text == 'p')
 {
