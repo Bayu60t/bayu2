@@ -136,6 +136,11 @@ conn.sendMessage(id, ' mungkin maksud anda *!menu* ' ,MessageType.text);
 	else if (text == 'bot'){
 conn.sendMessage(id, ' *Apa tod!! manggil" gw* ' ,MessageType.text);
 }
+	else if (text == '!owner'){
+conn.sendMessage(id, ' nih kak owner gw yg paling ganteng *http://Wa.me/6281392365930* ' ,MessageType.text);
+}
+
+	
 else if (text == 'p')
 {
 conn.sendMessage(id, tambahan.p ,MessageType.text);
