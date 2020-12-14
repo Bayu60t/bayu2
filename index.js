@@ -111,14 +111,24 @@ else if (text == 'assalamualaikum')
 {
 conn.sendMessage(id, tambahan.ass ,MessageType.text);
 }
+	else if (text == 'makasih'){
+conn.sendMessage(id, ' _sama-sama kak😘_ ' ,MessageType.text);
+}
 else if (text == 'bro')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
-else if (text == 'p')
-{
-conn.sendMessage(id, tambahan.p ,MessageType.text);
+	else if (text == 'bot'){
+conn.sendMessage(id, ' _Apa lu tod manggil"gw_ ' ,MessageType.text);
 }
+
+else if (text == 'I love u'){
+conn.sendMessage(id, ' _love you too😻_ ' ,MessageType.text);
+}
+else if (text == 'sepi'){
+conn.sendMessage(id, ' _love you too😻_ ' ,MessageType.text);
+}
+
 else if (text == 'test')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
